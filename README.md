@@ -9,3 +9,5 @@ Contained within this dataset are essential data points, including the number of
 One of the dataset's critical features is its temporal dimension, allowing us to observe trends and variations over time. This longitudinal perspective is invaluable for understanding how vaccination efforts have evolved, particularly in response to changing epidemiological circumstances and public health strategies.
 
 In essence, this dataset serves as a treasure trove of insights into the ongoing battle against the COVID-19 pandemic in the EU/EEA. Analyzing this data can unearth trends, patterns, and critical indicators that can guide vaccination strategies, and public health policies, and ultimately, contribute to the global effort to combat the virus. In the following analysis, we will embark on a journey through this data, aiming to distill meaningful insights that can inform and improve vaccination efforts in the region.
+
+# [CLICK HERE](https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA/blob/main/Covid19%20Euro%20Vacination.ipynb) TO LEARN MORE
